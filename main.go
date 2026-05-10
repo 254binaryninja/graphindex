@@ -53,7 +53,7 @@ func main() {
 		}
 	}()
 
-	s := server.NewMCPServer("GraphIndex", "0.1.0",
+	s := server.NewMCPServer("GraphIndex", "0.2.0",
 		server.WithToolCapabilities(true),
 	)
 
