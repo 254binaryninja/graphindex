@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/arnoldmusandu/graphindex/internal/db"
-	"github.com/arnoldmusandu/graphindex/internal/indexer"
-	"github.com/arnoldmusandu/graphindex/internal/query"
+	"github.com/254binaryninja/graphindex/internal/db"
+	"github.com/254binaryninja/graphindex/internal/indexer"
+	"github.com/254binaryninja/graphindex/internal/query"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 )

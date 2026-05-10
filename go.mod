@@ -1,4 +1,4 @@
-module github.com/arnoldmusandu/graphindex
+module github.com/254binaryninja/graphindex
 
 go 1.26.1
 

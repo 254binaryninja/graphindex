@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/arnoldmusandu/graphindex/internal/db"
-	"github.com/arnoldmusandu/graphindex/internal/parser"
+	"github.com/254binaryninja/graphindex/internal/db"
+	"github.com/254binaryninja/graphindex/internal/parser"
 )
 
 var supportedExts map[string]bool
